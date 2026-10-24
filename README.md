@@ -52,22 +52,22 @@ The first news scan loads progressively. Some games may take longer to check; fa
 - **Clear saved news** leaves Favorites and Ignore preferences intact.
 
 ### How to get to it
-![Screenshot_20261024_135025.png](../../../../home/leustad/Pictures/Screenshots/Screenshot_20261024_135025.png)
+![Steam Newsroom launcher in Steam](docs/screenshots/launcher.png)
 
 ### News & Updates
-![Screenshot_20261024_135411.png](../../../../home/leustad/Pictures/Screenshots/Screenshot_20261024_135411.png)
+![News and Updates showing recent game announcements](docs/screenshots/news-updates.png)
 
 ### Update Details
-![Screenshot_20261024_135722.png](../../../../home/leustad/Pictures/Screenshots/Screenshot_20261024_135722.png)
+![Game update details with formatted announcement content](docs/screenshots/game-details.png)
 
 ### Library
-![Screenshot_20261024_135501.png](../../../../home/leustad/Pictures/Screenshots/Screenshot_20261024_135501.png)
+![Steam Newsroom Library](docs/screenshots/library.png)
 
 ### Favorites
-![Screenshot_20261024_135541.png](../../../../home/leustad/Pictures/Screenshots/Screenshot_20261024_135541.png)
+![Favorites showing tracked games](docs/screenshots/favorites.png)
 
 ### Ignored
-![Screenshot_20261024_135638.png](../../../../home/leustad/Pictures/Screenshots/Screenshot_20261024_135638.png)
+![Ignored games list](docs/screenshots/ignored.png)
 
 ## Update or uninstall
 
