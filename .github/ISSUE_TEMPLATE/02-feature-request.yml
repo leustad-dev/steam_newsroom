@@ -1,0 +1,32 @@
+name: Feature request
+description: Suggest an improvement or new feature for Steam Newsroom.
+title: "[Feature] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please search existing issues first. Describe the problem you want to solve so we can discuss the best approach.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Describe what you are trying to do and what is difficult or missing today.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed-behavior
+    attributes:
+      label: What would you like to happen?
+      description: Describe the expected experience. Mention the relevant tab or workflow, if applicable.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or workarounds
+      description: Optional. What have you tried, or what other approaches could solve the problem?
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Optional. Include examples or mockups, and your operating system if the request is platform-specific. Remove personal information from attachments.

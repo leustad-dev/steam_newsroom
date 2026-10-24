@@ -68,7 +68,7 @@ To uninstall, fully quit Steam and remove `steam-newsroom.star` from Millennium'
 
 ## Feedback
 
-Report bugs through this repository's **Issues** tab. Include the plugin version, operating system, Steam/Millennium versions, what you expected and what happened. For news-formatting issues, include the game and post title or public post link. Remove account details or other personal information from screenshots and logs before sharing them.
+Use the [issue forms](https://github.com/leustad-dev/steam_newsroom/issues/new/choose) to report a bug or suggest a feature. Include the plugin version, operating system, Steam/Millennium versions, what you expected and what happened. For news-formatting issues, include the game and post title or public post link. Remove account details or other personal information from screenshots and logs before sharing them.
 
 ## Build from source
 

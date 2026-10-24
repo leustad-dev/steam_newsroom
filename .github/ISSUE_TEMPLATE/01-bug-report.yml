@@ -1,0 +1,71 @@
+name: Bug report
+description: Report a problem with installation, news, Favorites, Ignore, or the interface.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please search existing issues before reporting a new problem.
+        Reports are public. Remove account identifiers, passwords, session cookies, and other personal information from screenshots and logs.
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: What happened?
+      description: Describe the problem and any error message you saw.
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include which tab or action triggers the problem. If it happens intermittently, say so.
+      placeholder: |
+        1. Open Steam Newsroom.
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: plugin-version
+    attributes:
+      label: Steam Newsroom version
+      description: The version shown in Millennium's plugin list or the release you installed. Enter unknown if unavailable.
+      placeholder: "0.9.1"
+    validations:
+      required: true
+  - type: input
+    id: operating-system
+    attributes:
+      label: Operating system and version
+      placeholder: Fedora Linux, including the release version
+    validations:
+      required: true
+  - type: input
+    id: millennium-version
+    attributes:
+      label: Millennium version
+      description: Enter unknown if you cannot find it.
+    validations:
+      required: true
+  - type: input
+    id: steam-version
+    attributes:
+      label: Steam client version and channel
+      description: Include the client version and whether you use stable or beta Steam, if known.
+      placeholder: Client version; stable or beta
+  - type: textarea
+    id: affected-game-or-post
+    attributes:
+      label: Affected game or news post
+      description: For missing news, artwork, or formatting/media issues, include the game name, post title, and public Steam post URL if available.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots, relevant logs, or additional context
+      description: Optional. Paste relevant error lines or attach a screenshot here. Remove personal information first; do not upload private library or cache exports.
