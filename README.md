@@ -51,6 +51,24 @@ The first news scan loads progressively. Some games may take longer to check; fa
 - Use **Refresh** for a manual update. The **⋯** menu contains library refresh, saved-news clearing and a return to Steam Library.
 - **Clear saved news** leaves Favorites and Ignore preferences intact.
 
+### How to get to it
+![Screenshot_20261024_135025.png](../../../../home/leustad/Pictures/Screenshots/Screenshot_20261024_135025.png)
+
+### News & Updates
+![Screenshot_20261024_135411.png](../../../../home/leustad/Pictures/Screenshots/Screenshot_20261024_135411.png)
+
+### Update Details
+![Screenshot_20261024_135722.png](../../../../home/leustad/Pictures/Screenshots/Screenshot_20261024_135722.png)
+
+### Library
+![Screenshot_20261024_135501.png](../../../../home/leustad/Pictures/Screenshots/Screenshot_20261024_135501.png)
+
+### Favorites
+![Screenshot_20261024_135541.png](../../../../home/leustad/Pictures/Screenshots/Screenshot_20261024_135541.png)
+
+### Ignored
+![Screenshot_20261024_135638.png](../../../../home/leustad/Pictures/Screenshots/Screenshot_20261024_135638.png)
+
 ## Update or uninstall
 
 To update, fully quit Steam, replace the existing `.star` file with the new release, then reopen Steam. Replacing the plugin file keeps your saved preferences.
