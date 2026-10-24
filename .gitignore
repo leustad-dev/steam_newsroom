@@ -1,0 +1,12 @@
+node_modules/
+.millennium/
+dist/
+.test-build/
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.millennium/lsp/
+AGENTS.md
+CODEX.md
+docs/development_docs/*

@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "strict": true,
+    "skipLibCheck": true,
+    "types": [],
+    "rootDir": "frontend",
+    "outDir": ".test-build"
+  },
+  "include": [
+    "frontend/library/steamLibrary.ts",
+    "frontend/news/news.ts",
+    "frontend/news/queue.ts",
+    "frontend/news/cache.ts",
+    "frontend/news/createNewsReader.ts",
+    "frontend/news/formatting.ts",
+    "frontend/news/session.ts",
+    "frontend/news/historyCache.ts",
+    "frontend/news/persistence.ts",
+    "frontend/components/scrollToPost.ts",
+    "frontend/news/display.ts",
+    "frontend/favorites/favorites.ts",
+    "frontend/favorites/suggestions.ts",
+    "frontend/ignored/ignored.ts"
+  ]
+}

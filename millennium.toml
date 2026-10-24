@@ -1,0 +1,20 @@
+[plugin]
+id = "steam-newsroom"
+name = "Steam Newsroom"
+version = "0.9.1"
+author = "Leustad"
+description = "Recent developer news and updates from your Steam library."
+
+[backend]
+entry = "backend/main.lua"
+sources = ["backend/**/*.lua"]
+
+[frontend]
+entry = "frontend/index.tsx"
+
+[compiler]
+# Keep builds local; installation into Millennium is a separate manual step.
+output_path = "dist/steam-newsroom.star"
+
+[dev]
+reload_steamui_when = "frontend"
